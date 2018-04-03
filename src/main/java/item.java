@@ -1,7 +1,7 @@
 import Prenda.java;
 
 
-public class item {
+public class Item {
 	Prenda prenda;
 	int cantidad;
 	

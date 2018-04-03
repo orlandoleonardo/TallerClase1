@@ -5,7 +5,7 @@ public class prendaPromocion {
 	
 	float descuento;
 	
-	Promocion(float unDescuento){
+	prendaPromocion(float unDescuento){
 		this.descuento = unDescuento;
 	}
 	
